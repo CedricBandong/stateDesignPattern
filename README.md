@@ -35,6 +35,6 @@ Requirements:
       - Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 
 
-![StatePattern_UML](https://github.com/user-attachments/assets/147d34d4-96e9-4e48-897d-9033ed90edaa)
+![StatePattern_UML](https://github.com/user-attachments/assets/f302f17c-974a-47aa-9ebb-f84c4ff1fd82)
 
       
